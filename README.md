@@ -33,9 +33,9 @@ a ∈ A | Element of |Item is a member of set A.
 a ∉ A | Not Element of |Item is not a member of set A.
 Ø | Empty Set |Represents an Empty Set.
 */A/*|Cardinality|The number of elements of set A.
-$R$|Real Numbers|A set of Real Numbers.
-$Z$|Integers| A set of Integers.
-$N$|Natural Numbers| A set of Natural Numbers.
+***R***|Real Numbers|A set of Real Numbers.
+***Z***|Integers| A set of Integers.
+***N***|Natural Numbers| A set of Natural Numbers.
 
 > The entire alphabet can be used to define a set.
 >[You can find more Mathematical Symbol Meanings here](https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html).
@@ -68,7 +68,6 @@ The process of unifying a set:
 Symbol | Name | Meaning / Definition
 :--------: | :-----: |:--------:
 B ⊆ A | Subset |B ⊆ A means B is a Subset of A **AND** Set B is included in Set A.
-$N$ ⊆ $Z$| Subset |B ⊆ A means B is a Subset of A.
 B ⊂ A|Proper/Strict Subset|B is a subset of A, but B is not equal to A.
 B ⊇ A|Superset|B is a Superset of A. Set-B includes Set-A.
 A ⊅ B|Not a Superset|Set-B is not a superset of Set-A
