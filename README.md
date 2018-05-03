@@ -147,4 +147,4 @@ Note that we are arbitrarily assigning the result to s. If we wanted to sum the 
 
 Summation | Output:
 :--------: | :-----:
-![](https://latex.codecogs.com/gif.latex?%24%24S%20%3D%20%5Cdisplaystyle%5Cprod_%7Bi%3D1%7D%5E%7BN%7D%20X_i%20%5E%7B2%7D%24%24) |  S = X~1~^2^X~2~^2^X~3~^2^...X~n~^2^
+![](https://latex.codecogs.com/gif.latex?%24%24S%20%3D%20%5Cdisplaystyle%5Cprod_%7Bi%3D1%7D%5E%7BN%7D%20X_i%20%5E%7B2%7D%24%24) |  S = X ~1~ ^2^ X ~2~ ^2^ X ~3~ ^2^ ... X ~n~ ^2^
