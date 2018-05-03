@@ -121,25 +121,30 @@ A subscript is a natural number that indexes a list of variables. For example:
 
 ## Summation:
 Let X be the list [x~1~,...,x~n~], then if we want sum all of the elements up, we would use the notation:
-Summation| Output:
+
+Summation | Output:
 :--------: | :-----:
-![](https://latex.codecogs.com/gif.latex?%24%24S%20%3D%20%5Cdisplaystyle%5Csum_%7Bi%3D1%7D%5E%7BN%7D%20X_i%24%24)| S = X~1~ + X~2~ + X~3~+ ...X~n~
+![](https://latex.codecogs.com/gif.latex?%24%24S%20%3D%20%5Cdisplaystyle%5Csum_%7Bi%3D1%7D%5E%7BN%7D%20X_i%24%24) | S = X~1~ + X~2~ + X~3~+ ...X~n~
 
 Note that we are arbitrarily assigning the result to s. If we wanted to sum the squares:
-Summation| Output:
+
+Summation | Output:
 :--------: | :-----:
-![](https://latex.codecogs.com/gif.latex?%24%24S%20%3D%20%5Cdisplaystyle%5Csum_%7Bi%3D1%7D%5E%7BN%7D%20X_i%20%5E%7B2%7D%24%24)|  S = X~1~^2^ + X~2~^2^ + X~3~^2^+ ...X~n~^2^
+![](https://latex.codecogs.com/gif.latex?%24%24S%20%3D%20%5Cdisplaystyle%5Csum_%7Bi%3D1%7D%5E%7BN%7D%20X_i%20%5E%7B2%7D%24%24) |  S = X~1~^2^ + X~2~^2^ + X~3~^2^+ ...X~n~^2^
+
 As with a for loop, the bottom value is the starting value, and the top value is the end value
 Note that *i* can be replaced by any other variable name, as long as you are consistent.
 By convention the variables *i,j and k* are often used for subscripts
 
 ## Products:
 Let X be the list [x~1~,...,x~n~], then if we want multiple together all of the elements, we would use the notation:
-Summation| Output:
+
+Summation | Output:
 :--------: | :-----:
-![](https://latex.codecogs.com/gif.latex?%24%24S%20%3D%20%5Cdisplaystyle%5Cprod_%7Bi%3D1%7D%5E%7BN%7D%20X_i%24%24)|  S = X~1~X~2~X~3~...X~n~
+![](https://latex.codecogs.com/gif.latex?%24%24S%20%3D%20%5Cdisplaystyle%5Cprod_%7Bi%3D1%7D%5E%7BN%7D%20X_i%24%24) |  S = X~1~X~2~X~3~...X~n~
 
 Note that we are arbitrarily assigning the result to s. If we wanted to sum the squares:
-Summation| Output:
+
+Summation | Output:
 :--------: | :-----:
-![](https://latex.codecogs.com/gif.latex?%24%24S%20%3D%20%5Cdisplaystyle%5Cprod_%7Bi%3D1%7D%5E%7BN%7D%20X_i%20%5E%7B2%7D%24%24)|  S = X~1~^2^X~2~^2^X~3~^2^...X~n~^2^
+![](https://latex.codecogs.com/gif.latex?%24%24S%20%3D%20%5Cdisplaystyle%5Cprod_%7Bi%3D1%7D%5E%7BN%7D%20X_i%20%5E%7B2%7D%24%24) |  S = X~1~^2^X~2~^2^X~3~^2^...X~n~^2^
